@@ -1,0 +1,1 @@
+Funcionalidade de vincular a conta do usuário com outros aplicativos.
